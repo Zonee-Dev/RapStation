@@ -111,9 +111,3 @@ Website ini fully responsive dan dioptimalkan untuk:
 © 2025 RapStation. All rights reserved.
 
 ---
-
-## 👨‍💻 Developer
-
-Built with ❤️ using modern web technologies.
-
-For inquiries: [Contact via GitHub](https://github.com/AgusSetiawn)
